@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MSTClient/MSTClient.iml" filepath="$PROJECT_DIR$/MSTClient/MSTClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MSTCommon/MSTCommon.iml" filepath="$PROJECT_DIR$/MSTCommon/MSTCommon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MSTServiceFake/MSTServiceFake.iml" filepath="$PROJECT_DIR$/MSTServiceFake/MSTServiceFake.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MSTServiceReal/MSTServiceReal.iml" filepath="$PROJECT_DIR$/MSTServiceReal/MSTServiceReal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MultiServiceTest.iml" filepath="$PROJECT_DIR$/MultiServiceTest.iml" />
+    </modules>
+  </component>
+</project>
+

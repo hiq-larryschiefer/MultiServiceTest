@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MultiServiceTest</string>
+    <string name="service_conn_hint">Connecting to service...</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
